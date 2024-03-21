@@ -1,0 +1,14 @@
+ ______________________________________________________________________________
+|                           CONVERSOR DE TEMPERATURA                           |
+|                                                                              |
+|     Este software tem o intuito de servir como um conversor de temperatura.  |
+|                                                                              |            
+|   Escolha uma das opções abaixo:                                             |
+|                                                                              |
+|   1. Celsius para Fahrenheit;                                                |
+|   2. Celsius para Kevin;                                                     |
+|   3. Fahrenheit para Celsius;                                                |
+|   4. Fahrenheit para Kevin;                                                  |
+|   5. Kevin para Celsius;                                                     |
+|   6. Kevin Para Fahrenheit;                                                  |
+|______________________________________________________________________________|
