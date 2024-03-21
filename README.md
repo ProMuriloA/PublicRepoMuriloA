@@ -6,12 +6,12 @@
 **Português**
 
 - 👋 Olá, eu sou @ProMuriloA
-- 🌱 Estou aprendendo Desenvolvimento Front-End
+- 🌱 Estou aprendendo Desenvolvimento Front-End em Javascript
 - 📫 Email para contato: muriloaprofissional@outlook.com
 
 
 
-### I'm Murilo Assis / Eu sou Murilo Assis.
+# I'm Murilo Assis / Eu sou Murilo Assis.
 
 **English**
 
@@ -21,9 +21,9 @@ I'm a Software Engineering student and this is my GitHub account. Feel free to b
 
 Eu sou um estudante de Engenharia de Software e esta é minha conta do GitHub. Sinta-se à vontade para navegar pelos repositórios, há alguns projetos neles que eu estou desenvolvendo.
 
-#### Python Project 1
+## Python Project 1
 
-##### BMI Calculator/ Calculadora de IMC
+### BMI Calculator/ Calculadora de IMC
 
 **English**
 
@@ -33,9 +33,9 @@ The BMI calculator not only receive the user input and calculates their BMI, but
 
 A Calculadora de IMC não apenas calcula o IMC do usuário como também indica quantos quilogramas o usuário deve perder ou ganhar para ter um IMC saudável.
 
-### Python Project 2
+## Python Project 2
 
-##### Temperature Conversion Calculator / Calculadora de Conversão de Temperatura
+### Temperature Conversion Calculator / Calculadora de Conversão de Temperatura
 
 **English**
 
