@@ -44,3 +44,27 @@ The Temperature Conversion Calculator tells the user the temperature that the us
 **Portuguese**
  
 A calculadora conversora de temperatura calcula qual a temperatura que o usuário quer converter em qualquer outra escala desde que seja entre Celsius, Kelvin e Fahrenheit.
+
+## Python Project 3
+
+### Inverta Palavras ou Textos
+
+**English**
+
+This algorithm inverts any text typed into it.
+
+**Portuguese**
+
+Este algoritmo consegue inverter a order de qualquer palavra ou texto digitada no terminal
+
+## Python Project 4
+
+### Meu Número Está na Sequência Fibonacci?
+
+**English**
+
+This algorithm verifies if the number typed is in the fibonacci sequence and it tells the user the fibonacci numbers preceding it.
+
+**Portuguese**
+
+Este algoritmo testa números e verifica se ele se encontra na sequência fibonacci e informa todos os números fibonacci anteriores a ele
