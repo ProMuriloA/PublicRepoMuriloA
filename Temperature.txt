@@ -1,7 +1,7 @@
  ______________________________________________________________________________
 |                           CONVERSOR DE TEMPERATURA                           |
 |                                                                              |
-|     Este software tem o intuito de servir como um conversor de temperatura.  |
+|     This software can be used to convert temperatures                        |
 |                                                                              |            
 |   Escolha uma das opções abaixo:                                             |
 |                                                                              |

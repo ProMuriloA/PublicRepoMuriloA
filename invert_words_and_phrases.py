@@ -1,6 +1,6 @@
 def inverta_palavras():
-    print('Inverta textos/palavras com esse algoritmo')
-    string_para_teste = input("Digite uma palavra: ")
+    print('Invert words and phrases with this algorithm')
+    string_para_teste = input("Type a word or phrase: ")
     string_array = []
     palavra = False
     list_parcial2 = []
@@ -27,7 +27,7 @@ sair = False
 
 while sair == False:
     inverta_palavras()
-    print('Deseja continuar?')
+    print('Do you wish to continue?')
     sim_ou_nao = input('(Y/N)?')
     if sim_ou_nao.lower() == 'y':
         sair = False

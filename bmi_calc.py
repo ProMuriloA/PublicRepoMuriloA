@@ -66,7 +66,7 @@ while sair == False:
         pass
     else:
         print('Input error')
-    print('Do you want to continue?')
+    print('Do you wish to continue?')
     sim_ou_nao = input('(Y/N)?')
     if sim_ou_nao.lower() == 'y':
         sair = False

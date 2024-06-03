@@ -1,7 +1,7 @@
 import sys
 
-print('Inverta textos com esse algoritmo')
-print('Use o nome do arquivo como argumento')
+print('You can invert texts with this algorith')
+print('Use the archive path and name as an argument')
 def inverta_palavras():
     with open(sys.argv[1], 'r') as text_to_open:
         for line_inside in text_to_open:
@@ -32,7 +32,7 @@ sair = False
 
 while sair == False:
     inverta_palavras()
-    print('Deseja continuar?')
+    print('Do you wish to continue?')
     sim_ou_nao = input('(Y/N)?')
     if sim_ou_nao.lower() == 'y':
         sair = False
