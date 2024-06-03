@@ -4,7 +4,7 @@ def open_text(text_title):
             print(line_inside)
 
 # Abrir Texto Introdutório
-open_text('Temperatura.txt')
+open_text('Temperature.txt')
 
 # Input para determinar qual escala
 escolha = int(input('Choose a number: '))
