@@ -11,9 +11,9 @@ read command_option
 if [[ $command_option -eq 1 ]]; then
   echo "Choose a file path and name:"
   read file_name
-  python3 inverta_arquivos.py $file_name
+  python3 invert_whole_files.py $file_name
 elif [[ $command_option -eq 2 ]]; then
-  python3 inverta_palavras.py
+  python3 invert_words_and_phrases.py
 elif [[ $command_option -eq 3 ]]; then
   python3 temperature_conversion.py
 elif [[ $command_option -eq 4 ]]; then
